@@ -1,2 +1,2 @@
-API_TOKEN = '6435888693:AAHHIr4Biw0aOXirR1Tvguk2Uy1lyYKsoUc'
+API_TOKEN = 'добавь свой токен, жулик)'
 DB_NAME = 'realestate.db'
